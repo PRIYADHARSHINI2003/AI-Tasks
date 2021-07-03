@@ -28,3 +28,4 @@ for i in range(len(list)):
 print("Minimum: " + str(Minimum))
 print("Maximum: " + str(Maximum))
 print("Average: " + str(sum/length))
+// this is a comment
